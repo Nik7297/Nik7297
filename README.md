@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Tesla**
+- 🔭 I’m currently working on **Java Script**
 
 - 🌱 I’m currently learning **learning....**
 
