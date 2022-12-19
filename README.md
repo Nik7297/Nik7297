@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Java Script**
 
-- 🌱 I’m currently learning **learning....**
+- 🌱 I’m currently learning **....**
 
-- 👯 I’m looking to collaborate on **Tinder**
+- 👯 I’m looking to collaborate on **New Project...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nik7297](https://github.com/Nik7297)
 
