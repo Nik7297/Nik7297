@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **....**
 
-- 👯 I’m looking to collaborate on **New Project...**
+- 👯 I’m looking to collaborate on **java script Project...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nik7297](https://github.com/Nik7297)
 
