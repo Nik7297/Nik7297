@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Java Script**
+- 🔭 I’m currently working on **Java Script and React**
 
 - 🌱 I’m currently learning **....**
 
