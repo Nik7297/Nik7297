@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nik7297](https://github.com/Nik7297)
 
-- 💬 Ask me about **HTML CSS JS**
+- 💬 Ask me about **HTML CSS JavaScript**
 
 - 📫 How to reach me **nik20906@gmail.com**
 
